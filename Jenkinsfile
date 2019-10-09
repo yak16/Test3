@@ -15,8 +15,8 @@ node
         echo "Test & Deploy"
     }
     
-    stage("Upgrade git")
+    stage("Upgrade apache")
     {
-        echo "Upgrade git"
+        echo "Upgrade apache"
     }
 }
